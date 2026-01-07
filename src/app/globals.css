@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Limpieza total de estilos */
+body {
+  background-color: #f3f4f6; /* Un gris muy suave de fondo */
+  color: #1f2937;
+}
+/* --- Estilos de REACT BIG CALENDAR --- */
+@import 'react-big-calendar/lib/css/react-big-calendar.css';
