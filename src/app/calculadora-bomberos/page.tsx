@@ -1,5 +1,5 @@
 import React from 'react';
-import FirefighterCalculator from '@/components/FirefighterCalculator';
+import FirefighterCalculator from '../../components/FirefighterCalculator';
 
 export default function FirefighterCalculatorPage() {
   return (
